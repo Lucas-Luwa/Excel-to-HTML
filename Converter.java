@@ -29,7 +29,7 @@ public class Converter{
                 runNum++;
             }
             // System.out.println(runNum); //Check Run Numbers
-            writer.write("<\\table>\n");
+            writer.write("</table>\n");
             writer.close();
             fileScan.close();
         }catch(IOException e){

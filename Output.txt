@@ -100,4 +100,4 @@
 <tr><td>98</td><td>Kids</td><td>MGMT</td><td>Synth-Pop</td><td>2007</td><td>123</td><td>78</td></tr>
 <tr><td>99</td><td>Sober Up</td><td>AJR</td><td>Alternative</td><td>2017</td><td>93</td><td>65</td></tr>
 <tr><td>100</td><td>As It Was</td><td>Harry Styles</td><td>Synth-Pop</td><td>2022</td><td>174</td><td>100</td></tr>
-<\table>
+</table>
