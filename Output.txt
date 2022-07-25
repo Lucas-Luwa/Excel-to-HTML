@@ -1,101 +1,103 @@
-<tr><th> </th><th>Song</th><th>Artist(s)</th><th>Genre</th><th>Year</th><th>BPM</th><th>Popularity</th><th>Time </th>
-<tr><th>1</th><th>Beatiful Mistakes</th><th>Maroon 5</th><th>Pop Rock</th><th>2021</th><th>99</th><th>81</th><th>35</th>
-<tr><th>2</th><th>Fireflies</th><th>Owl City</th><th>Synth-Pop</th><th>2009</th><th>90</th><th>78</th><th>25</th>
-<tr><th>3</th><th>Let Me Go</th><th>"Hailee Steinfeld</th><th> Alesso"</th><th>Pop</th><th>2017</th><th>103</th><th>78</th><th>26</th>
-<tr><th>4</th><th>Passenger Side</th><th>Smallpools</th><th>Pop</th><th>2017</th><th>102</th><th>45</th><th>25</th>
-<tr><th>5</th><th>Pink Lemonade</th><th>The Wombats</th><th>Pop Rock</th><th>2015</th><th>144</th><th>49</th><th>22</th>
-<tr><th>6</th><th>Violet</th><th>Bad Suns</th><th>Pop Rock</th><th>2016</th><th>103</th><th>53</th><th>28</th>
-<tr><th>7</th><th>Crash My Car</th><th>COIN</th><th>Pop Rock</th><th>2020</th><th>92</th><th>68</th><th>26</th>
-<tr><th>8</th><th>Window</th><th>Magic Giant</th><th>Alternative Rock</th><th>2017</th><th>116</th><th>53</th><th>22</th>
-<tr><th>9</th><th>Roll Up</th><th>Fitz and The Tantrums</th><th>Pop Rock</th><th>2016</th><th>93</th><th>45</th><th>35</th>
-<tr><th>10</th><th>The Feels</th><th>Twice</th><th>K-Pop</th><th>2021</th><th>120</th><th>79</th><th>50</th>
-<tr><th>11</th><th>I'm Good</th><th>The Mowgli's</th><th>Alternative Rock</th><th>2016</th><th>96</th><th>61</th><th>28</th>
-<tr><th>12</th><th>Mood</th><th>24KGoldn</th><th>Pop Rap</th><th>2020</th><th>91</th><th>90</th><th>40</th>
-<tr><th>13</th><th>Runaway (U & I)</th><th>Galantis</th><th>Progressive House</th><th>2014</th><th>126</th><th>74</th><th>11</th>
-<tr><th>14</th><th>Drive By</th><th>Train</th><th>Pop Rock</th><th>2012</th><th>122</th><th>77</th><th>55</th>
-<tr><th>15</th><th>Don't Stop Believin'</th><th>Journey</th><th>Rock</th><th>1981</th><th>119</th><th>75</th><th>20</th>
-<tr><th>16</th><th>Deja Vu</th><th>Olivia Rodrigo</th><th>Pop</th><th>2021</th><th>90</th><th>86</th><th>28</th>
-<tr><th>17</th><th>Shivers</th><th>Ed Sheeran</th><th>Pop</th><th>2021</th><th>141</th><th>89</th><th>50</th>
-<tr><th>18</th><th>Treasure</th><th>Bruno Mars</th><th>Pop</th><th>2012</th><th>116</th><th>81</th><th>36</th>
-<tr><th>19</th><th>Lean on</th><th>"Major Laser</th><th> DJ Snake"</th><th>Electronic</th><th>2015</th><th>98</th><th>74</th><th>23</th>
-<tr><th>20</th><th>El Mismo Sol</th><th>Alvaro Soler</th><th>Latin Pop</th><th>2015</th><th>113</th><th>58</th><th>23</th>
-<tr><th>21</th><th>Eastside</th><th>"Khalid</th><th> Benny Blanco</th><th> Halsey"</th><th>Pop</th><th>2018</th><th>89</th><th>78</th><th>47</th>
-<tr><th>22</th><th>Firestone</th><th>Kygo</th><th>Tropical House</th><th>2015</th><th>114</th><th>77</th><th>24</th>
-<tr><th>23</th><th>We Come Running</th><th>Youngblood Hawke</th><th>Indie Pop</th><th>2012</th><th>125</th><th>50</th><th>41</th>
-<tr><th>24</th><th>Rather Be</th><th>Clean bandit</th><th>Pop</th><th>2014</th><th>121</th><th>75</th><th>25</th>
-<tr><th>25</th><th>Jump</th><th>Van Halen</th><th>Pop Rock</th><th>1984</th><th>130</th><th>67</th><th>19</th>
-<tr><th>26</th><th>Bam Bam</th><th>Camila Cabello</th><th>Latin Pop</th><th>2022</th><th>95</th><th>89</th><th>45</th>
-<tr><th>27</th><th>Alone</th><th>Marshmello</th><th>Trap</th><th>2016</th><th>142</th><th>77</th><th>12</th>
-<tr><th>28</th><th>Summer of '69</th><th>Bryan Adams</th><th>Rock</th><th>1984</th><th>139</th><th>83</th><th>25</th>
-<tr><th>29</th><th>Sweet But Psycho</th><th>Ava Max</th><th>Pop</th><th>2020</th><th>133</th><th>79</th><th>43</th>
-<tr><th>30</th><th>Once In A While</th><th>Timeflies</th><th>Pop</th><th>2016</th><th>105</th><th>61</th><th>42</th>
-<tr><th>31</th><th>Heat Waves</th><th>Glass Animals</th><th>Alternative</th><th>2020</th><th>81</th><th>86</th><th>36</th>
-<tr><th>32</th><th>Take a Walk</th><th>Passion Pit</th><th>Indie Pop</th><th>2012</th><th>101</th><th>70</th><th>37</th>
-<tr><th>33</th><th>These Days</th><th>Rudimental</th><th>Pop</th><th>2018</th><th>92</th><th>75</th><th>42</th>
-<tr><th>34</th><th>Red Lights</th><th>Tiesto</th><th>Progressive House</th><th>2014</th><th>125</th><th>66</th><th>23</th>
-<tr><th>35</th><th>Summer Days</th><th>Martin Garrix</th><th>Electronic Rock</th><th>2019</th><th>114</th><th>76</th><th>32</th>
-<tr><th>36</th><th>Chicken Fried</th><th>Zac Brown Band</th><th>Country</th><th>2005</th><th>170</th><th>77</th><th>25</th>
-<tr><th>37</th><th>Riptide</th><th>Vance Joy</th><th>Indie Folk</th><th>2013</th><th>102</th><th>77</th><th>40</th>
-<tr><th>38</th><th>Billionaire</th><th>Travie McCoy</th><th>Pop</th><th>2010</th><th>87</th><th>73</th><th>46</th>
-<tr><th>39</th><th>Dope on a Rope</th><th>The Growlers</th><th>Alternative</th><th>2016</th><th>146</th><th>60</th><th>21</th>
-<tr><th>40</th><th>Wake Me Up</th><th>Avicii</th><th>House</th><th>2013</th><th>124</th><th>89</th><th>20</th>
-<tr><th>41</th><th>Pompeii</th><th>Bastille</th><th>Alternative Rock</th><th>2013</th><th>127</th><th>73</th><th>38</th>
-<tr><th>42</th><th>Every Breath You Take</th><th>The Police</th><th>Soft Rock</th><th>1983</th><th>117</th><th>84</th><th>30</th>
-<tr><th>43</th><th>I'm Yours</th><th>Jason Mraz</th><th>Reggae</th><th>2008</th><th>151</th><th>83</th><th>30</th>
-<tr><th>44</th><th>Here Without You</th><th>3 Doors Down</th><th>Alternative</th><th>2002</th><th>144</th><th>73</th><th>21</th>
-<tr><th>45</th><th>Something To You</th><th>The Vamps</th><th>Folk Pop</th><th>2014</th><th>75</th><th>74</th><th>40</th>
-<tr><th>46</th><th>The Bones</th><th>Maren Morris</th><th>Country</th><th>2019</th><th>77</th><th>75</th><th>32</th>
-<tr><th>47</th><th>Your Soul</th><th>Coasts</th><th>Alternative</th><th>2016</th><th>121</th><th>35</th><th>24</th>
-<tr><th>48</th><th>Dreamer</th><th>Axwell & Ingrosso</th><th>Dance Pop</th><th>2017</th><th>126</th><th>63</th><th>31</th>
-<tr><th>49</th><th>Some Nights</th><th>fun.</th><th>Alternative Rock</th><th>2012</th><th>108</th><th>69</th><th>42</th>
-<tr><th>50</th><th>Glorious</th><th>Macklemore</th><th>Pop Rap</th><th>2017</th><th>140</th><th>74</th><th>51</th>
-<tr><th>51</th><th>I'm Gonna Be (500 Miles)</th><th>The Proclaimers</th><th>Alternative Rock</th><th>1987</th><th>132</th><th>71</th><th>44</th>
-<tr><th>52</th><th>Say You Won't Let Go</th><th>James Arthur</th><th>Pop</th><th>2016</th><th>85</th><th>85</th><th>40</th>
-<tr><th>53</th><th>Big Plans</th><th>Why Don't We</th><th>Pop Rock</th><th>2019</th><th>75</th><th>56</th><th>39</th>
-<tr><th>54</th><th>Mercy</th><th>Shawn Mendes</th><th>Rock</th><th>2016</th><th>148</th><th>78</th><th>41</th>
-<tr><th>55</th><th>Never Let Me Go</th><th>"Josh Wantie</th><th> Conor Maynard"</th><th>Pop</th><th>2020</th><th>95</th><th>36</th><th>36</th>
-<tr><th>56</th><th>Danger</th><th>You Me at Six</th><th>Pop</th><th>2018</th><th>153</th><th>28</th><th>26</th>
-<tr><th>57</th><th>Fire</th><th>Gavin DeGraw</th><th>Pop Rock</th><th>2014</th><th>90</th><th>50</th><th>38</th>
-<tr><th>58</th><th>Viva La Vida</th><th>Coldplay</th><th>Baroque Pop</th><th>2008</th><th>138</th><th>81</th><th>25</th>
-<tr><th>59</th><th>"Take Me Home</th><th> Country Roads"</th><th>John  Denver</th><th>Country</th><th>1971</th><th>82</th><th>72</th><th>16</th>
-<tr><th>60</th><th>Little Talks</th><th>Of Monsters and Men</th><th>Indie Folk</th><th>2011</th><th>103</th><th>81</th><th>34</th>
-<tr><th>61</th><th>Hall of Fame</th><th>The Script</th><th>Pop Rock</th><th>2012</th><th>85</th><th>67</th><th>41</th>
-<tr><th>62</th><th>I Took A Pill In Ibiza</th><th>Mike Posner</th><th>Folk Pop</th><th>2016</th><th>74</th><th>52</th><th>39</th>
-<tr><th>63</th><th>Work from Home</th><th>Fifth Harmony</th><th>Pop</th><th>2016</th><th>105</th><th>76</th><th>49</th>
-<tr><th>64</th><th>Up</th><th>Olly Murs</th><th>Pop Folk</th><th>2013</th><th>115</th><th>71</th><th>52</th>
-<tr><th>65</th><th>Enemy</th><th>Imagine Dragons & JID</th><th>Pop Rock</th><th>2021</th><th>77</th><th>89</th><th>40</th>
-<tr><th>66</th><th>Undefeated</th><th>Secondhand Serenade</th><th>Rock</th><th>2014</th><th>150</th><th>26</th><th>31</th>
-<tr><th>67</th><th>Electric Love</th><th>Børns</th><th>Alternative</th><th>2015</th><th>120</th><th>83</th><th>19</th>
-<tr><th>68</th><th>Renegades</th><th>X Ambassadors</th><th>Alternative Rock</th><th>2015</th><th>90</th><th>75</th><th>22</th>
-<tr><th>69</th><th>Cake By the Ocean</th><th>DNCE</th><th>Dance Pop</th><th>2015</th><th>119</th><th>78</th><th>52</th>
-<tr><th>70</th><th>Black Hole</th><th>Griff</th><th>Pop</th><th>2021</th><th>124</th><th>64</th><th>41</th>
-<tr><th>71</th><th>Dancing in the Moonlight</th><th>Jubel</th><th>Dance Pop</th><th>2018</th><th>120</th><th>76</th><th>20</th>
-<tr><th>72</th><th>Don't You Worry Child</th><th>Sweedish House Mafia</th><th>Progressive House</th><th>2012</th><th>129</th><th>78</th><th>34</th>
-<tr><th>73</th><th>Safe and Sound</th><th>Capital Cities</th><th>Synth-Pop</th><th>2011</th><th>118</th><th>83</th><th>28</th>
-<tr><th>74</th><th>Let Her Go</th><th>Passenger</th><th>Folk Rock</th><th>2012</th><th>75</th><th>48</th><th>41</th>
-<tr><th>75</th><th>Summer Life</th><th>Regi Penxten</th><th>Electronic</th><th>2019</th><th>124</th><th>31</th><th>43</th>
-<tr><th>76</th><th>My Only One (No Hay Nadie Más)</th><th>"Sebastian Yatra</th><th> Isabela Merced"</th><th>Latin Pop</th><th>2018</th><th>105</th><th>66</th><th>28</th>
-<tr><th>77</th><th>Unforgettable</th><th>French Montana</th><th>Hip Hop</th><th>2017</th><th>98</th><th>82</th><th>44</th>
-<tr><th>78</th><th>High Hopes</th><th>Panic! At The Disco</th><th>Pop Rock</th><th>2018</th><th>82</th><th>79</th><th>36</th>
-<tr><th>79</th><th>One Foot</th><th>WALK THE MOON</th><th>Alternative</th><th>2017</th><th>100</th><th>63</th><th>40</th>
-<tr><th>80</th><th>Circles</th><th>Post Malone</th><th>Pop Rock</th><th>2019</th><th>120</th><th>85</th><th>30</th>
-<tr><th>81</th><th>Love Story</th><th>Taylor Swift</th><th>Pop</th><th>2008</th><th>130</th><th>72</th>
-<tr><th>82</th><th>abcdefu</th><th>GAYLE</th><th>Pop Rock</th><th>2022</th><th>122</th><th>90</th>
-<tr><th>83</th><th>Black Gasoline</th><th>Mark Mendy</th><th>Alternative</th><th>2019</th><th>122</th><th>44</th>
-<tr><th>84</th><th>Death Valley</th><th>Fall Out Boy</th><th>Alternative Rock</th><th>2013</th><th>134</th><th>46</th>
-<tr><th>85</th><th>No Promises</th><th>Cheat Codes</th><th>House</th><th>2018</th><th>113</th><th>61</th>
-<tr><th>86</th><th>IDGAF</th><th>BoyWithUke</th><th>Alternative</th><th>2022</th><th>98</th><th>78</th>
-<tr><th>87</th><th>Sunroof</th><th>Nick Youre</th><th>Pop</th><th>2021</th><th>131</th><th>87</th>
-<tr><th>88</th><th>Spins</th><th>Mac Miller</th><th>Hip Hop</th><th>2010</th><th>127</th><th>82</th>
-<tr><th>89</th><th>Sunshine</th><th>OneRepublic</th><th>Pop</th><th>2021</th><th>140</th><th>83</th>
-<tr><th>90</th><th>See You Again</th><th>Wiz Khalifa</th><th>Hip Hop</th><th>2015</th><th>80</th><th>79</th>
-<tr><th>91</th><th>Someone Like You</th><th>Adele</th><th>Pop</th><th>2011</th><th>135</th><th>78</th>
-<tr><th>92</th><th>Dandelions</th><th>Ruth B.</th><th>Pop</th><th>2017</th><th>117</th><th>90</th>
-<tr><th>93</th><th>THATS WHAT I WANT</th><th>Lil Nas X</th><th>Pop Rock</th><th>2021</th><th>88</th><th>90</th>
-<tr><th>94</th><th>Fire on Up</th><th>Paper Kings</th><th>Alternative</th><th>2019</th><th>145</th><th>58</th>
-<tr><th>95</th><th>Classic </th><th>MKTO</th><th>Pop</th><th>2013</th><th>102</th><th>81</th>
-<tr><th>96</th><th>Youngblood</th><th>5 Seconds of Summer</th><th>Pop Rock</th><th>2018</th><th>120</th><th>81</th>
-<tr><th>97</th><th>Blinding Lights</th><th>The Weeknd</th><th>Synth-Pop</th><th>2019</th><th>171</th><th>88</th>
-<tr><th>98</th><th>Kids</th><th>MGMT</th><th>Synth-Pop</th><th>2007</th><th>123</th><th>78</th>
-<tr><th>99</th><th>Sober Up</th><th>AJR</th><th>Alternative</th><th>2017</th><th>93</th><th>65</th>
-<tr><th>100</th><th>As It Was</th><th>Harry Styles</th><th>Synth-Pop</th><th>2022</th><th>174</th><th>100</th>
+<table>
+<tr><th></th><th>Song</th><th>Artist(s)</th><th>Genre</th><th>Year</th><th>BPM</th><th>Popularity</th><th>Time</th></tr>
+<tr><td>1</td><td>Beatiful Mistakes</td><td>Maroon 5</td><td>Pop Rock</td><td>2021</td><td>99</td><td>81</td><td>35</td></tr>
+<tr><td>2</td><td>Fireflies</td><td>Owl City</td><td>Synth-Pop</td><td>2009</td><td>90</td><td>78</td><td>25</td></tr>
+<tr><td>3</td><td>Let Me Go</td><td>"Hailee Steinfeld</td><td> Alesso"</td><td>Pop</td><td>2017</td><td>103</td><td>78</td><td>26</td></tr>
+<tr><td>4</td><td>Passenger Side</td><td>Smallpools</td><td>Pop</td><td>2017</td><td>102</td><td>45</td><td>25</td></tr>
+<tr><td>5</td><td>Pink Lemonade</td><td>The Wombats</td><td>Pop Rock</td><td>2015</td><td>144</td><td>49</td><td>22</td></tr>
+<tr><td>6</td><td>Violet</td><td>Bad Suns</td><td>Pop Rock</td><td>2016</td><td>103</td><td>53</td><td>28</td></tr>
+<tr><td>7</td><td>Crash My Car</td><td>COIN</td><td>Pop Rock</td><td>2020</td><td>92</td><td>68</td><td>26</td></tr>
+<tr><td>8</td><td>Window</td><td>Magic Giant</td><td>Alternative Rock</td><td>2017</td><td>116</td><td>53</td><td>22</td></tr>
+<tr><td>9</td><td>Roll Up</td><td>Fitz and The Tantrums</td><td>Pop Rock</td><td>2016</td><td>93</td><td>45</td><td>35</td></tr>
+<tr><td>10</td><td>The Feels</td><td>Twice</td><td>K-Pop</td><td>2021</td><td>120</td><td>79</td><td>50</td></tr>
+<tr><td>11</td><td>I'm Good</td><td>The Mowgli's</td><td>Alternative Rock</td><td>2016</td><td>96</td><td>61</td><td>28</td></tr>
+<tr><td>12</td><td>Mood</td><td>24KGoldn</td><td>Pop Rap</td><td>2020</td><td>91</td><td>90</td><td>40</td></tr>
+<tr><td>13</td><td>Runaway (U & I)</td><td>Galantis</td><td>Progressive House</td><td>2014</td><td>126</td><td>74</td><td>11</td></tr>
+<tr><td>14</td><td>Drive By</td><td>Train</td><td>Pop Rock</td><td>2012</td><td>122</td><td>77</td><td>55</td></tr>
+<tr><td>15</td><td>Don't Stop Believin'</td><td>Journey</td><td>Rock</td><td>1981</td><td>119</td><td>75</td><td>20</td></tr>
+<tr><td>16</td><td>Deja Vu</td><td>Olivia Rodrigo</td><td>Pop</td><td>2021</td><td>90</td><td>86</td><td>28</td></tr>
+<tr><td>17</td><td>Shivers</td><td>Ed Sheeran</td><td>Pop</td><td>2021</td><td>141</td><td>89</td><td>50</td></tr>
+<tr><td>18</td><td>Treasure</td><td>Bruno Mars</td><td>Pop</td><td>2012</td><td>116</td><td>81</td><td>36</td></tr>
+<tr><td>19</td><td>Lean on</td><td>"Major Laser</td><td> DJ Snake"</td><td>Electronic</td><td>2015</td><td>98</td><td>74</td><td>23</td></tr>
+<tr><td>20</td><td>El Mismo Sol</td><td>Alvaro Soler</td><td>Latin Pop</td><td>2015</td><td>113</td><td>58</td><td>23</td></tr>
+<tr><td>21</td><td>Eastside</td><td>"Khalid</td><td> Benny Blanco</td><td> Halsey"</td><td>Pop</td><td>2018</td><td>89</td><td>78</td><td>47</td></tr>
+<tr><td>22</td><td>Firestone</td><td>Kygo</td><td>Tropical House</td><td>2015</td><td>114</td><td>77</td><td>24</td></tr>
+<tr><td>23</td><td>We Come Running</td><td>Youngblood Hawke</td><td>Indie Pop</td><td>2012</td><td>125</td><td>50</td><td>41</td></tr>
+<tr><td>24</td><td>Rather Be</td><td>Clean bandit</td><td>Pop</td><td>2014</td><td>121</td><td>75</td><td>25</td></tr>
+<tr><td>25</td><td>Jump</td><td>Van Halen</td><td>Pop Rock</td><td>1984</td><td>130</td><td>67</td><td>19</td></tr>
+<tr><td>26</td><td>Bam Bam</td><td>Camila Cabello</td><td>Latin Pop</td><td>2022</td><td>95</td><td>89</td><td>45</td></tr>
+<tr><td>27</td><td>Alone</td><td>Marshmello</td><td>Trap</td><td>2016</td><td>142</td><td>77</td><td>12</td></tr>
+<tr><td>28</td><td>Summer of '69</td><td>Bryan Adams</td><td>Rock</td><td>1984</td><td>139</td><td>83</td><td>25</td></tr>
+<tr><td>29</td><td>Sweet But Psycho</td><td>Ava Max</td><td>Pop</td><td>2020</td><td>133</td><td>79</td><td>43</td></tr>
+<tr><td>30</td><td>Once In A While</td><td>Timeflies</td><td>Pop</td><td>2016</td><td>105</td><td>61</td><td>42</td></tr>
+<tr><td>31</td><td>Heat Waves</td><td>Glass Animals</td><td>Alternative</td><td>2020</td><td>81</td><td>86</td><td>36</td></tr>
+<tr><td>32</td><td>Take a Walk</td><td>Passion Pit</td><td>Indie Pop</td><td>2012</td><td>101</td><td>70</td><td>37</td></tr>
+<tr><td>33</td><td>These Days</td><td>Rudimental</td><td>Pop</td><td>2018</td><td>92</td><td>75</td><td>42</td></tr>
+<tr><td>34</td><td>Red Lights</td><td>Tiesto</td><td>Progressive House</td><td>2014</td><td>125</td><td>66</td><td>23</td></tr>
+<tr><td>35</td><td>Summer Days</td><td>Martin Garrix</td><td>Electronic Rock</td><td>2019</td><td>114</td><td>76</td><td>32</td></tr>
+<tr><td>36</td><td>Chicken Fried</td><td>Zac Brown Band</td><td>Country</td><td>2005</td><td>170</td><td>77</td><td>25</td></tr>
+<tr><td>37</td><td>Riptide</td><td>Vance Joy</td><td>Indie Folk</td><td>2013</td><td>102</td><td>77</td><td>40</td></tr>
+<tr><td>38</td><td>Billionaire</td><td>Travie McCoy</td><td>Pop</td><td>2010</td><td>87</td><td>73</td><td>46</td></tr>
+<tr><td>39</td><td>Dope on a Rope</td><td>The Growlers</td><td>Alternative</td><td>2016</td><td>146</td><td>60</td><td>21</td></tr>
+<tr><td>40</td><td>Wake Me Up</td><td>Avicii</td><td>House</td><td>2013</td><td>124</td><td>89</td><td>20</td></tr>
+<tr><td>41</td><td>Pompeii</td><td>Bastille</td><td>Alternative Rock</td><td>2013</td><td>127</td><td>73</td><td>38</td></tr>
+<tr><td>42</td><td>Every Breath You Take</td><td>The Police</td><td>Soft Rock</td><td>1983</td><td>117</td><td>84</td><td>30</td></tr>
+<tr><td>43</td><td>I'm Yours</td><td>Jason Mraz</td><td>Reggae</td><td>2008</td><td>151</td><td>83</td><td>30</td></tr>
+<tr><td>44</td><td>Here Without You</td><td>3 Doors Down</td><td>Alternative</td><td>2002</td><td>144</td><td>73</td><td>21</td></tr>
+<tr><td>45</td><td>Something To You</td><td>The Vamps</td><td>Folk Pop</td><td>2014</td><td>75</td><td>74</td><td>40</td></tr>
+<tr><td>46</td><td>The Bones</td><td>Maren Morris</td><td>Country</td><td>2019</td><td>77</td><td>75</td><td>32</td></tr>
+<tr><td>47</td><td>Your Soul</td><td>Coasts</td><td>Alternative</td><td>2016</td><td>121</td><td>35</td><td>24</td></tr>
+<tr><td>48</td><td>Dreamer</td><td>Axwell & Ingrosso</td><td>Dance Pop</td><td>2017</td><td>126</td><td>63</td><td>31</td></tr>
+<tr><td>49</td><td>Some Nights</td><td>fun.</td><td>Alternative Rock</td><td>2012</td><td>108</td><td>69</td><td>42</td></tr>
+<tr><td>50</td><td>Glorious</td><td>Macklemore</td><td>Pop Rap</td><td>2017</td><td>140</td><td>74</td><td>51</td></tr>
+<tr><td>51</td><td>I'm Gonna Be (500 Miles)</td><td>The Proclaimers</td><td>Alternative Rock</td><td>1987</td><td>132</td><td>71</td><td>44</td></tr>
+<tr><td>52</td><td>Say You Won't Let Go</td><td>James Arthur</td><td>Pop</td><td>2016</td><td>85</td><td>85</td><td>40</td></tr>
+<tr><td>53</td><td>Big Plans</td><td>Why Don't We</td><td>Pop Rock</td><td>2019</td><td>75</td><td>56</td><td>39</td></tr>
+<tr><td>54</td><td>Mercy</td><td>Shawn Mendes</td><td>Rock</td><td>2016</td><td>148</td><td>78</td><td>41</td></tr>
+<tr><td>55</td><td>Never Let Me Go</td><td>"Josh Wantie</td><td> Conor Maynard"</td><td>Pop</td><td>2020</td><td>95</td><td>36</td><td>36</td></tr>
+<tr><td>56</td><td>Danger</td><td>You Me at Six</td><td>Pop</td><td>2018</td><td>153</td><td>28</td><td>26</td></tr>
+<tr><td>57</td><td>Fire</td><td>Gavin DeGraw</td><td>Pop Rock</td><td>2014</td><td>90</td><td>50</td><td>38</td></tr>
+<tr><td>58</td><td>Viva La Vida</td><td>Coldplay</td><td>Baroque Pop</td><td>2008</td><td>138</td><td>81</td><td>25</td></tr>
+<tr><td>59</td><td>"Take Me Home</td><td> Country Roads"</td><td>John  Denver</td><td>Country</td><td>1971</td><td>82</td><td>72</td><td>16</td></tr>
+<tr><td>60</td><td>Little Talks</td><td>Of Monsters and Men</td><td>Indie Folk</td><td>2011</td><td>103</td><td>81</td><td>34</td></tr>
+<tr><td>61</td><td>Hall of Fame</td><td>The Script</td><td>Pop Rock</td><td>2012</td><td>85</td><td>67</td><td>41</td></tr>
+<tr><td>62</td><td>I Took A Pill In Ibiza</td><td>Mike Posner</td><td>Folk Pop</td><td>2016</td><td>74</td><td>52</td><td>39</td></tr>
+<tr><td>63</td><td>Work from Home</td><td>Fifth Harmony</td><td>Pop</td><td>2016</td><td>105</td><td>76</td><td>49</td></tr>
+<tr><td>64</td><td>Up</td><td>Olly Murs</td><td>Pop Folk</td><td>2013</td><td>115</td><td>71</td><td>52</td></tr>
+<tr><td>65</td><td>Enemy</td><td>Imagine Dragons & JID</td><td>Pop Rock</td><td>2021</td><td>77</td><td>89</td><td>40</td></tr>
+<tr><td>66</td><td>Undefeated</td><td>Secondhand Serenade</td><td>Rock</td><td>2014</td><td>150</td><td>26</td><td>31</td></tr>
+<tr><td>67</td><td>Electric Love</td><td>Børns</td><td>Alternative</td><td>2015</td><td>120</td><td>83</td><td>19</td></tr>
+<tr><td>68</td><td>Renegades</td><td>X Ambassadors</td><td>Alternative Rock</td><td>2015</td><td>90</td><td>75</td><td>22</td></tr>
+<tr><td>69</td><td>Cake By the Ocean</td><td>DNCE</td><td>Dance Pop</td><td>2015</td><td>119</td><td>78</td><td>52</td></tr>
+<tr><td>70</td><td>Black Hole</td><td>Griff</td><td>Pop</td><td>2021</td><td>124</td><td>64</td><td>41</td></tr>
+<tr><td>71</td><td>Dancing in the Moonlight</td><td>Jubel</td><td>Dance Pop</td><td>2018</td><td>120</td><td>76</td><td>20</td></tr>
+<tr><td>72</td><td>Don't You Worry Child</td><td>Sweedish House Mafia</td><td>Progressive House</td><td>2012</td><td>129</td><td>78</td><td>34</td></tr>
+<tr><td>73</td><td>Safe and Sound</td><td>Capital Cities</td><td>Synth-Pop</td><td>2011</td><td>118</td><td>83</td><td>28</td></tr>
+<tr><td>74</td><td>Let Her Go</td><td>Passenger</td><td>Folk Rock</td><td>2012</td><td>75</td><td>48</td><td>41</td></tr>
+<tr><td>75</td><td>Summer Life</td><td>Regi Penxten</td><td>Electronic</td><td>2019</td><td>124</td><td>31</td><td>43</td></tr>
+<tr><td>76</td><td>My Only One (No Hay Nadie Más)</td><td>"Sebastian Yatra</td><td> Isabela Merced"</td><td>Latin Pop</td><td>2018</td><td>105</td><td>66</td><td>28</td></tr>
+<tr><td>77</td><td>Unforgettable</td><td>French Montana</td><td>Hip Hop</td><td>2017</td><td>98</td><td>82</td><td>44</td></tr>
+<tr><td>78</td><td>High Hopes</td><td>Panic! At The Disco</td><td>Pop Rock</td><td>2018</td><td>82</td><td>79</td><td>36</td></tr>
+<tr><td>79</td><td>One Foot</td><td>WALK THE MOON</td><td>Alternative</td><td>2017</td><td>100</td><td>63</td><td>40</td></tr>
+<tr><td>80</td><td>Circles</td><td>Post Malone</td><td>Pop Rock</td><td>2019</td><td>120</td><td>85</td><td>30</td></tr>
+<tr><td>81</td><td>Love Story</td><td>Taylor Swift</td><td>Pop</td><td>2008</td><td>130</td><td>72</td></tr>
+<tr><td>82</td><td>abcdefu</td><td>GAYLE</td><td>Pop Rock</td><td>2022</td><td>122</td><td>90</td></tr>
+<tr><td>83</td><td>Black Gasoline</td><td>Mark Mendy</td><td>Alternative</td><td>2019</td><td>122</td><td>44</td></tr>
+<tr><td>84</td><td>Death Valley</td><td>Fall Out Boy</td><td>Alternative Rock</td><td>2013</td><td>134</td><td>46</td></tr>
+<tr><td>85</td><td>No Promises</td><td>Cheat Codes</td><td>House</td><td>2018</td><td>113</td><td>61</td></tr>
+<tr><td>86</td><td>IDGAF</td><td>BoyWithUke</td><td>Alternative</td><td>2022</td><td>98</td><td>78</td></tr>
+<tr><td>87</td><td>Sunroof</td><td>Nick Youre</td><td>Pop</td><td>2021</td><td>131</td><td>87</td></tr>
+<tr><td>88</td><td>Spins</td><td>Mac Miller</td><td>Hip Hop</td><td>2010</td><td>127</td><td>82</td></tr>
+<tr><td>89</td><td>Sunshine</td><td>OneRepublic</td><td>Pop</td><td>2021</td><td>140</td><td>83</td></tr>
+<tr><td>90</td><td>See You Again</td><td>Wiz Khalifa</td><td>Hip Hop</td><td>2015</td><td>80</td><td>79</td></tr>
+<tr><td>91</td><td>Someone Like You</td><td>Adele</td><td>Pop</td><td>2011</td><td>135</td><td>78</td></tr>
+<tr><td>92</td><td>Dandelions</td><td>Ruth B.</td><td>Pop</td><td>2017</td><td>117</td><td>90</td></tr>
+<tr><td>93</td><td>THATS WHAT I WANT</td><td>Lil Nas X</td><td>Pop Rock</td><td>2021</td><td>88</td><td>90</td></tr>
+<tr><td>94</td><td>Fire on Up</td><td>Paper Kings</td><td>Alternative</td><td>2019</td><td>145</td><td>58</td></tr>
+<tr><td>95</td><td>Classic </td><td>MKTO</td><td>Pop</td><td>2013</td><td>102</td><td>81</td></tr>
+<tr><td>96</td><td>Youngblood</td><td>5 Seconds of Summer</td><td>Pop Rock</td><td>2018</td><td>120</td><td>81</td></tr>
+<tr><td>97</td><td>Blinding Lights</td><td>The Weeknd</td><td>Synth-Pop</td><td>2019</td><td>171</td><td>88</td></tr>
+<tr><td>98</td><td>Kids</td><td>MGMT</td><td>Synth-Pop</td><td>2007</td><td>123</td><td>78</td></tr>
+<tr><td>99</td><td>Sober Up</td><td>AJR</td><td>Alternative</td><td>2017</td><td>93</td><td>65</td></tr>
+<tr><td>100</td><td>As It Was</td><td>Harry Styles</td><td>Synth-Pop</td><td>2022</td><td>174</td><td>100</td></tr>
+<\table>
