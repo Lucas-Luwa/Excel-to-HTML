@@ -1,8 +1,8 @@
 <table>
-<tr><th></th><th>Song</th><th>Artist(s)</th><th>Genre</th><th>Year</th><th>BPM</th><th>Popularity</th><th>Time</th></tr>
+<tr><th>  </th><th>Song</th><th>Artist(s)</th><th>Genre</th><th>Year</th><th>BPM</th><th>Popularity</th><th>Time </th></tr>
 <tr><td>1</td><td>Beatiful Mistakes</td><td>Maroon 5</td><td>Pop Rock</td><td>2021</td><td>99</td><td>81</td><td>35</td></tr>
 <tr><td>2</td><td>Fireflies</td><td>Owl City</td><td>Synth-Pop</td><td>2009</td><td>90</td><td>78</td><td>25</td></tr>
-<tr><td>3</td><td>Let Me Go</td><td>"Hailee Steinfeld</td><td> Alesso"</td><td>Pop</td><td>2017</td><td>103</td><td>78</td><td>26</td></tr>
+<tr><td>3</td><td>Let Me Go</td><td>Hailee Steinfeld | Alesso</td><td>Pop</td><td>2017</td><td>103</td><td>78</td><td>26</td></tr>
 <tr><td>4</td><td>Passenger Side</td><td>Smallpools</td><td>Pop</td><td>2017</td><td>102</td><td>45</td><td>25</td></tr>
 <tr><td>5</td><td>Pink Lemonade</td><td>The Wombats</td><td>Pop Rock</td><td>2015</td><td>144</td><td>49</td><td>22</td></tr>
 <tr><td>6</td><td>Violet</td><td>Bad Suns</td><td>Pop Rock</td><td>2016</td><td>103</td><td>53</td><td>28</td></tr>
@@ -18,9 +18,9 @@
 <tr><td>16</td><td>Deja Vu</td><td>Olivia Rodrigo</td><td>Pop</td><td>2021</td><td>90</td><td>86</td><td>28</td></tr>
 <tr><td>17</td><td>Shivers</td><td>Ed Sheeran</td><td>Pop</td><td>2021</td><td>141</td><td>89</td><td>50</td></tr>
 <tr><td>18</td><td>Treasure</td><td>Bruno Mars</td><td>Pop</td><td>2012</td><td>116</td><td>81</td><td>36</td></tr>
-<tr><td>19</td><td>Lean on</td><td>"Major Laser</td><td> DJ Snake"</td><td>Electronic</td><td>2015</td><td>98</td><td>74</td><td>23</td></tr>
+<tr><td>19</td><td>Lean on</td><td>Major Laser & DJ Snake</td><td>Electronic</td><td>2015</td><td>98</td><td>74</td><td>23</td></tr>
 <tr><td>20</td><td>El Mismo Sol</td><td>Alvaro Soler</td><td>Latin Pop</td><td>2015</td><td>113</td><td>58</td><td>23</td></tr>
-<tr><td>21</td><td>Eastside</td><td>"Khalid</td><td> Benny Blanco</td><td> Halsey"</td><td>Pop</td><td>2018</td><td>89</td><td>78</td><td>47</td></tr>
+<tr><td>21</td><td>Eastside</td><td>Khalid | Benny Blanco | Halsey</td><td>Pop</td><td>2018</td><td>89</td><td>78</td><td>47</td></tr>
 <tr><td>22</td><td>Firestone</td><td>Kygo</td><td>Tropical House</td><td>2015</td><td>114</td><td>77</td><td>24</td></tr>
 <tr><td>23</td><td>We Come Running</td><td>Youngblood Hawke</td><td>Indie Pop</td><td>2012</td><td>125</td><td>50</td><td>41</td></tr>
 <tr><td>24</td><td>Rather Be</td><td>Clean bandit</td><td>Pop</td><td>2014</td><td>121</td><td>75</td><td>25</td></tr>
@@ -54,7 +54,7 @@
 <tr><td>52</td><td>Say You Won't Let Go</td><td>James Arthur</td><td>Pop</td><td>2016</td><td>85</td><td>85</td><td>40</td></tr>
 <tr><td>53</td><td>Big Plans</td><td>Why Don't We</td><td>Pop Rock</td><td>2019</td><td>75</td><td>56</td><td>39</td></tr>
 <tr><td>54</td><td>Mercy</td><td>Shawn Mendes</td><td>Rock</td><td>2016</td><td>148</td><td>78</td><td>41</td></tr>
-<tr><td>55</td><td>Never Let Me Go</td><td>"Josh Wantie</td><td> Conor Maynard"</td><td>Pop</td><td>2020</td><td>95</td><td>36</td><td>36</td></tr>
+<tr><td>55</td><td>Never Let Me Go</td><td>Josh Wantie | Conor Maynard</td><td>Pop</td><td>2020</td><td>95</td><td>36</td><td>36</td></tr>
 <tr><td>56</td><td>Danger</td><td>You Me at Six</td><td>Pop</td><td>2018</td><td>153</td><td>28</td><td>26</td></tr>
 <tr><td>57</td><td>Fire</td><td>Gavin DeGraw</td><td>Pop Rock</td><td>2014</td><td>90</td><td>50</td><td>38</td></tr>
 <tr><td>58</td><td>Viva La Vida</td><td>Coldplay</td><td>Baroque Pop</td><td>2008</td><td>138</td><td>81</td><td>25</td></tr>
@@ -64,7 +64,7 @@
 <tr><td>62</td><td>I Took A Pill In Ibiza</td><td>Mike Posner</td><td>Folk Pop</td><td>2016</td><td>74</td><td>52</td><td>39</td></tr>
 <tr><td>63</td><td>Work from Home</td><td>Fifth Harmony</td><td>Pop</td><td>2016</td><td>105</td><td>76</td><td>49</td></tr>
 <tr><td>64</td><td>Up</td><td>Olly Murs</td><td>Pop Folk</td><td>2013</td><td>115</td><td>71</td><td>52</td></tr>
-<tr><td>65</td><td>Enemy</td><td>Imagine Dragons & JID</td><td>Pop Rock</td><td>2021</td><td>77</td><td>89</td><td>40</td></tr>
+<tr><td>65</td><td>Enemy</td><td>Imagine Dragons | JID</td><td>Pop Rock</td><td>2021</td><td>77</td><td>89</td><td>40</td></tr>
 <tr><td>66</td><td>Undefeated</td><td>Secondhand Serenade</td><td>Rock</td><td>2014</td><td>150</td><td>26</td><td>31</td></tr>
 <tr><td>67</td><td>Electric Love</td><td>Børns</td><td>Alternative</td><td>2015</td><td>120</td><td>83</td><td>19</td></tr>
 <tr><td>68</td><td>Renegades</td><td>X Ambassadors</td><td>Alternative Rock</td><td>2015</td><td>90</td><td>75</td><td>22</td></tr>
@@ -75,7 +75,7 @@
 <tr><td>73</td><td>Safe and Sound</td><td>Capital Cities</td><td>Synth-Pop</td><td>2011</td><td>118</td><td>83</td><td>28</td></tr>
 <tr><td>74</td><td>Let Her Go</td><td>Passenger</td><td>Folk Rock</td><td>2012</td><td>75</td><td>48</td><td>41</td></tr>
 <tr><td>75</td><td>Summer Life</td><td>Regi Penxten</td><td>Electronic</td><td>2019</td><td>124</td><td>31</td><td>43</td></tr>
-<tr><td>76</td><td>My Only One (No Hay Nadie Más)</td><td>"Sebastian Yatra</td><td> Isabela Merced"</td><td>Latin Pop</td><td>2018</td><td>105</td><td>66</td><td>28</td></tr>
+<tr><td>76</td><td>My Only One (No Hay Nadie Más)</td><td>Sebastian Yatra | Isabela Merced</td><td>Latin Pop</td><td>2018</td><td>105</td><td>66</td><td>28</td></tr>
 <tr><td>77</td><td>Unforgettable</td><td>French Montana</td><td>Hip Hop</td><td>2017</td><td>98</td><td>82</td><td>44</td></tr>
 <tr><td>78</td><td>High Hopes</td><td>Panic! At The Disco</td><td>Pop Rock</td><td>2018</td><td>82</td><td>79</td><td>36</td></tr>
 <tr><td>79</td><td>One Foot</td><td>WALK THE MOON</td><td>Alternative</td><td>2017</td><td>100</td><td>63</td><td>40</td></tr>

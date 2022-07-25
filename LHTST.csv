@@ -1,7 +1,7 @@
-,Song,Artist(s),Genre,Year,BPM,Popularity,Time
+  ,Song,Artist(s),Genre,Year,BPM,Popularity,Time 
 1,Beatiful Mistakes,Maroon 5,Pop Rock,2021,99,81,35
 2,Fireflies,Owl City,Synth-Pop,2009,90,78,25
-3,Let Me Go,"Hailee Steinfeld, Alesso",Pop,2017,103,78,26
+3,Let Me Go,Hailee Steinfeld | Alesso,Pop,2017,103,78,26
 4,Passenger Side,Smallpools,Pop,2017,102,45,25
 5,Pink Lemonade,The Wombats,Pop Rock,2015,144,49,22
 6,Violet,Bad Suns,Pop Rock,2016,103,53,28
@@ -17,9 +17,9 @@
 16,Deja Vu,Olivia Rodrigo,Pop,2021,90,86,28
 17,Shivers,Ed Sheeran,Pop,2021,141,89,50
 18,Treasure,Bruno Mars,Pop,2012,116,81,36
-19,Lean on,"Major Laser, DJ Snake",Electronic,2015,98,74,23
+19,Lean on,Major Laser & DJ Snake,Electronic,2015,98,74,23
 20,El Mismo Sol,Alvaro Soler,Latin Pop,2015,113,58,23
-21,Eastside,"Khalid, Benny Blanco, Halsey",Pop,2018,89,78,47
+21,Eastside,Khalid | Benny Blanco | Halsey,Pop,2018,89,78,47
 22,Firestone,Kygo,Tropical House,2015,114,77,24
 23,We Come Running,Youngblood Hawke,Indie Pop,2012,125,50,41
 24,Rather Be,Clean bandit,Pop,2014,121,75,25
@@ -53,7 +53,7 @@
 52,Say You Won't Let Go,James Arthur,Pop,2016,85,85,40
 53,Big Plans,Why Don't We,Pop Rock,2019,75,56,39
 54,Mercy,Shawn Mendes,Rock,2016,148,78,41
-55,Never Let Me Go,"Josh Wantie, Conor Maynard",Pop,2020,95,36,36
+55,Never Let Me Go,Josh Wantie | Conor Maynard,Pop,2020,95,36,36
 56,Danger,You Me at Six,Pop,2018,153,28,26
 57,Fire,Gavin DeGraw,Pop Rock,2014,90,50,38
 58,Viva La Vida,Coldplay,Baroque Pop,2008,138,81,25
@@ -63,7 +63,7 @@
 62,I Took A Pill In Ibiza,Mike Posner,Folk Pop,2016,74,52,39
 63,Work from Home,Fifth Harmony,Pop,2016,105,76,49
 64,Up,Olly Murs,Pop Folk,2013,115,71,52
-65,Enemy,Imagine Dragons & JID,Pop Rock,2021,77,89,40
+65,Enemy,Imagine Dragons | JID,Pop Rock,2021,77,89,40
 66,Undefeated,Secondhand Serenade,Rock,2014,150,26,31
 67,Electric Love,Børns,Alternative,2015,120,83,19
 68,Renegades,X Ambassadors,Alternative Rock,2015,90,75,22
@@ -74,7 +74,7 @@
 73,Safe and Sound,Capital Cities,Synth-Pop,2011,118,83,28
 74,Let Her Go,Passenger,Folk Rock,2012,75,48,41
 75,Summer Life,Regi Penxten,Electronic,2019,124,31,43
-76,My Only One (No Hay Nadie Más),"Sebastian Yatra, Isabela Merced",Latin Pop,2018,105,66,28
+76,My Only One (No Hay Nadie Más),Sebastian Yatra | Isabela Merced,Latin Pop,2018,105,66,28
 77,Unforgettable,French Montana,Hip Hop,2017,98,82,44
 78,High Hopes,Panic! At The Disco,Pop Rock,2018,82,79,36
 79,One Foot,WALK THE MOON,Alternative,2017,100,63,40
